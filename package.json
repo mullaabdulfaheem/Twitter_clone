@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@heroicons/react": "^1.0.6",
+    "react-twitter-embed": "^4.0.4"
+  }
+}
